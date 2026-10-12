@@ -1,0 +1,6 @@
+Soil_ID,Field_Name,Linked_Crop_ID,Soil_Type,pH,Nitrogen_kg_ha,Phosphorus_kg_ha,Potassium_kg_ha,Moisture_Percent,Test_Date,Health_Status
+SOIL001,North Block - Parcel A,CROP001,Clay Loam,6.8,280,38,220,24.5,2026-05-12,Optimal
+SOIL002,South Basin - Lowland,CROP002,Alluvial,7.2,240,28,180,32.0,2026-06-08,Optimal
+SOIL003,East Terrace - Parcel C,CROP003,Black Cotton,8.1,190,22,160,18.2,2026-04-22,Alkaline
+SOIL004,West Flat - Parcel D,CROP004,Sandy Loam,6.4,310,45,250,22.0,2026-06-25,Slightly Acidic
+SOIL005,Central Plot - Greenhouse,CROP005,Red Sandy Loam,6.9,260,34,210,26.5,2026-07-28,Optimal

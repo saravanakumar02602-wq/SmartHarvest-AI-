@@ -1,0 +1,4 @@
+Harvest_ID,Crop_ID,Crop_Name,Harvest_Date,Quantity_Kg,Yield_Per_Acre_Kg,Quality_Grade
+HARV001,CROP001,Wheat,2026-06-28,22500,1800,Grade A
+HARV002,CROP002,Rice,2026-07-10,44000,2200,Grade A+
+HARV003,CROP005,Tomato,2026-08-05,14400,3200,Grade A

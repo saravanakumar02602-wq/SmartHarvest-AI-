@@ -1,0 +1,7 @@
+"Log_ID","Location","Date","Temperature_C","Humidity_Percent","Rainfall_mm","Wind_Speed_kmh","Condition","Data_Source"
+"WTH001","Punjab Farm Belt","2026-09-18",31.5,58,0,8.5,"Sunny","Manual Operator Log"
+"WTH002","Punjab Farm Belt","2026-09-19",30.2,65,4.5,12,"Partly Cloudy","Manual Operator Log"
+"WTH003","Punjab Farm Belt","2026-09-20",28.8,72,12,14.5,"Rainy","Manual Operator Log"
+"WTH004","Maharashtra Central","2026-09-18",29,60,0,9,"Sunny","Manual Operator Log"
+"WTH005","Andhra Coastal Basin","2026-09-19",32.4,78,2,11,"Humid / Overcast","Manual Operator Log"
+"WTH006","Coimbatore ,Tamil Nadu","2026-09-20",30,60,0,10,"Sunny / Clear","Manual Operator Log"

@@ -1,0 +1,6 @@
+"Crop_ID","Crop_Name","Variety","Area_Acres","Sowing_Date","Expected_Harvest_Date","Status","Yield_Per_Acre_Kg"
+"CROP001","Wheat","HD-2967",12.5,"2026-05-15","2026-10-20","Growing",1800
+"CROP002","Rice","Basmati 370",20,"2026-06-10","2026-11-15","Growing",2200
+"CROP003","Cotton","Bt Cotton",8,"2026-04-25","2026-10-30","Growing",950
+"CROP004","Maize","African Tall",15,"2026-07-01","2026-10-15","Growing",2400
+"CROP005","Tomato","Roma VF",4.5,"2026-08-01","2026-11-30","Growing",3200
